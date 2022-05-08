@@ -1,0 +1,224 @@
+\documentclass[12pt,twoside]{article}
+\usepackage{subfiles} 						% To import each section
+\usepackage[osf,p]{libertinus}
+\usepackage{libertine}
+\usepackage{microtype}
+\usepackage[pdfusetitle,hidelinks]{hyperref}
+% \usepackage{endnotes} % To move \footnote{} to an endnote.
+% \let\footnote=\endnote
+\usepackage{color,soul}
+\usepackage{babel}
+\usepackage{setspace}
+\usepackage[series={A,B},noend,noeledsec,noledgroup]{reledmac}
+\usepackage{verbatim}
+\Xarrangement[A]{paragraph}
+\Xarrangement[B]{paragraph}
+\usepackage{fancyhdr}
+
+\usepackage[nospacearound]{extdash} % in order to allow hyphanation with dashes
+\def\EXD@emdash{\hbox{—}}
+
+% headings in apparatus:
+\newcommand{\appnote}{\noindent \hrulefill\ {\footnotesize Notes} \hrulefill \vskip.3em}
+\let\footnoterule=\appnote
+\newcommand{\appvariants}{\hrulefill\ {\footnotesize Variants} \hrulefill \vskip.3em}
+\let\Bfootnoterule=\appvariants
+
+
+\usepackage{fontspec}
+\usepackage{polyglossia} 		
+	\setmainlanguage{english}
+	\setotherlanguage{sanskrit}
+	\newfontfamily\sanskritfont[Ligatures=TeX]{Linux Libertine}
+	\newfontfamily\mantrafont[Ligatures=TeX]{STIX Two Text}[Scale=MatchLowercase]
+	\newfontfamily\devfont[Script=Devanagari]{Noto Sans Devanagari}
+
+\usepackage{longtable} 			% For sigla and symbols
+
+%% page setup %%
+\renewcommand*{\numlabfont}{\normalfont\small}
+\linenummargin{inner}
+\lineation{page}
+\linespread{1.3}
+
+
+% for quoting verse
+\newcommand{\versequote} {
+	\setlength{\stanzaindentbase}{25pt}
+	\setstanzaindents{1,1,1}
+	\stanza
+}
+
+% make brackets etc. never in italics
+% must be turned off before printing bibliography
+\usepackage[biblatex]{embrac}
+\providecommand\textsi[1]{#1} % To avoid error in xelatex looking for textsi command
+\AddOpEmph{|}
+\AddOpEmph{/}
+
+
+\newenvironment{prosequote} {\medskip\begingroup\leftskip3em\rightskip\leftskip\noindent}{\par\endgroup\medskip}
+
+% environment for putting mantras in smallcaps
+\newenvironment{mantra}{\begin{mantrafont}\scshape}{\end{mantrafont}}
+
+%sigla
+\newcommand{\PCreading}{$^{pc}$}
+\newcommand{\ACreading}{$^{ac}$}
+\newcommand{\MSN}{Ṅ}
+\newcommand{\TIB}{T\textsubscript{D}}
+\newcommand{\sigmareading}[1]{$\Sigma$\textsubscript{#1}}
+
+%folio and page numbers
+\newcommand{\fnum}[3]{\hspace{0em}$\makebox[0pt][c]{\raisebox{-1.4ex}{\tiny$\perp$}}$\ledouternote{\textenglish{\textnormal{#1\space fo.\space #2}$^{#3}$}}}
+\newcommand{\pnum}[2]{\hspace{0em}$\makebox[0pt][c]{\raisebox{-1.4ex}{\tiny$\perp$}}$\ledouternote{\textenglish{\textnormal{#1\space p.\space #2}}}}
+
+
+% apparatus
+\newcommandx{\variants}[2][1,usedefault]{\Bfootnote[#1]{#2}}
+\newcommandx{\lacunae}[2][1,usedefault]{\Afootnote[#1]{#2}}
+
+
+% main edit commands
+\newcommand{\varbrace}[2]{$\makebox[0pt][#1]{\raisebox{-0.8ex}{\footnotesize$#2$}}$}
+\newcommand{\lacbrace}[2]{$\makebox[0pt][#1]{\raisebox{0.8ex}{\footnotesize$#2$}}$}
+\newcommand{\vedtext}[2]{\hspace{0em}\varbrace{l}{\llcorner}\edtext{#1}{#2}\varbrace{r}{\lrcorner}\hspace{0em}}
+\newcommand{\ledtext}[2]{\hspace{0em}\lacbrace{l}{\ulcorner}\edtext{#1}{#2}\lacbrace{r}{\urcorner}\hspace{0em}}
+
+% Symbols and sigla
+\newcommand{\abbr} {°} 						% abbr for abbreviation 
+\newcommand{\stho} {○} 						% stho for string hole
+\newcommand{\dam} {×} 						% dam for damaged
+\newcommand{\emd} {\emph{em.}}
+\newcommand{\conj} {\emph{conj.}}
+\newcommand{\diag} {\emph{diag.\ conj.}}
+\newcommand{\possibleemd} {\emph{possible em.}}
+\newcommand{\possibleconj} {\emph{possible conj.}}
+\newcommand{\crux} {\hspace{0em}\textsuperscript{†}\hspace{0em}}
+\newcommand{\dsh} {\hspace{0em}-\hspace{0em}}
+
+%%% Bibliography
+\usepackage[authordate16,backend=biber,idemtracker=true]{biblatex-chicago}
+\addbibresource{~/Documents/personal/bibliography.bibtex}
+\renewcommand{\mkbibnamefamily}[1]{\textsc{#1}}
+\renewcommand\postnotedelim{\addcolon\addspace} % adds colon after year in citation.
+
+\DeclareBibliographyCategory{fullcited}
+\newcommand{\mybibexclude}[1]{\addtocategory{fullcited}{#1}}
+
+\title{Nairātmyāprakāśa}
+\author{Advayavajra \\ ed.\ Ryan Conlon}
+
+\begin{document}
+	\maketitle
+
+% For page numbers
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{Advayavajra's \emph{Nairātmyāprakāśa}}
+\fancyhead[LO]{\leftmark\ - DRAFT EDITION by Ryan Conlon}
+
+   \section{Sigla and Symbols}	
+	\subfile{naipra_sigla.tex}
+
+	\section{Edition of the Sanskrit Text}
+	\subfile{naipra_ed.tex}
+
+%	\section{Edition of the Tibetan Text}
+%	\subfile{kn_tib.tex}
+
+%	\section{English Translation}
+%	\subfile{kn_trans.tex}
+
+	%\newpage
+	%\theendnotes
+
+	\EmbracOff
+
+	\section*{Primary Sources}
+\bigskip\noindent\emph{Dveṣavajrasādhana} by Bhadrapāda\\
+\noindent\begin{tabular}{ p{0.2\textwidth} p{0.8\textwidth} }
+	& \cite*[vol.\ 2 pp.\ 335–360]{gerloff2020} 
+\end{tabular}
+
+\bigskip\noindent\emph{Bhramaharasādhana} by Ratnākaraśānti\\
+\noindent\begin{tabular}{ p{0.2\textwidth} p{0.8\textwidth} }
+	& \fullcite*{isaacson2002}.\mybibexclude{isaacson2002} 
+\end{tabular}
+
+\bigskip\noindent\emph{Nāmamantrārthāvalokinī} by Vilāsavajra\\
+\noindent\begin{tabular}{ p{0.2\textwidth} p{0.8\textwidth} }
+	& See \textcite{tribe2016}.
+\end{tabular}
+
+\bigskip\noindent\emph{Muktāvalī} (MuĀ) by Ratnākaraśānti\\
+\noindent\begin{tabular}{ p{0.2\textwidth} p{0.8\textwidth} }
+	ed. & \fullcite*{tripathi2001}.\mybibexclude{tripathi2001} \\
+	ms-a & National Archives Kathmandu, 4/19 (NGMCP A 994/6). Palm-leaf, Bhuṃjimol script, 115 folios.\\
+	ms-b & NGMCP E 260/2. Palm-leaf, Proto-Bengali script, 25 follios. \\
+	ms-c & Tokyo University Library, M.\ 513. Palm-leaf, Proto-Bengali script, 40 folios. (part of E 260-2) \\
+	D & dpal dgyes pa'i rdo rje'i dka' 'grel mu tig phreng ba by Ratnākaraśānti. Translation by Śāntibhadra and 'Gos lhas btsas. In sDe dge bstan 'gyur, Tōh.\ 1189, rgyud, vol.\ 4 (ga), fo.\ 221r1–297r7. 
+\end{tabular}
+
+\bigskip\noindent\emph{Ratnāvalī} by Kamalanātha \\
+\noindent\begin{tabular}{ p{0.2\textwidth} p{0.8\textwidth} }
+	&  \emph{Ratnāvalī Hevajrapañjikā}. Kaiser Library, 231 (NGMPP C 26-4[2]). Palm leaf, proto-Bengali script, 23 fos., complete. 
+\end{tabular}
+
+\bigskip\noindent\emph{Saptākṣarasādhana} \\
+\noindent\begin{tabular}{ p{0.2\textwidth} p{0.8\textwidth} }
+	ed.\ & \emph{Sādhanamālā} no.\ 251. \\
+	D & \emph{Yi ge bdun pa'i sgrub thabs} by gNyis su med pa'i rdo rje. Trans.\ by Mar pa chos kyi dbang phyug. sDe dge bstan 'gyur, Tōh.\ 1483, rgyud, vol.\ 22 (zha), fo.\ 130r7–133v1. 
+\end{tabular}
+
+\bigskip\noindent\emph{Sādhanamāla} \\
+\noindent\begin{tabular}{ p{0.2\textwidth} p{0.8\textwidth} }
+	& \fullcite*{bhattacharyya1925}.\mybibexclude{bhattacharyya1925} 
+\end{tabular}
+
+\bigskip\noindent\emph{Sādhanamāla} \\
+\noindent\begin{tabular}{ p{0.2\textwidth} p{0.8\textwidth} }
+	& National Archives Kathmandu, NAK 3-693 (NGMPP A 936/11) ... 
+\end{tabular}
+
+\bigskip\noindent\emph{Śrīhevajraviśuddhinidhi} by Advayavajra\\
+\noindent\begin{tabular}{ p{0.2\textwidth} p{0.8\textwidth} }
+	ms & In \emph{Hevajrasādhanasaṅgraha}, fo.\ 65r-80v. \\
+	D & \emph{kye rdo rje'i sgrub pa'i thabs rnam par dag pa'i gter} by gNyis su med pa'i rdo rje. Trans.\ by Vanaratna and 'Gos gzhon nu dpal. sDe dge bstan 'gyur, Tōh.\ 1244, rgyud, vol.\ 9 (nya), fo.\ 175r1-189r4. 
+\end{tabular}
+
+\bigskip\noindent\emph{Hevajratantra} (HeTa) \\ 
+\noindent\begin{tabular}{ p{0.2\textwidth} p{0.8\textwidth} }
+	ed. & \fullcite*{snellgrove1959}.\mybibexclude{snellgrove1959} \\
+	N\textsubscript{a} & National Archives Kathmandu 7/11 (NGMPP A 993/7). Palm leaf, 45 ff., incomplete. \\
+	N\textsubscript{b} & National Archives Kathmandu, 5/93 (NGMPP A 48-8). Palm leaf, 28 ff., damaged. \\
+	C & Cambridge University Library, MS Add.1697.2. Palm leaf, Bengali script, 34 fos., incomplete. \\
+	P & Manuscript images of unknown provenance. Palm leaf, Newar script, incomplete. \\
+	K & Kaiser Library KL 126 (NGMPP C 14-4), paper, Newari, 52 folios, complete. (775 NS = 1654 CE). 
+\end{tabular}
+
+\bigskip\noindent\emph{Hevajrasādhanasaṅgraha}\\
+\noindent\begin{tabular}{ p{0.2\textwidth} p{0.8\textwidth} }
+	ms & Reproductions of photographs made by Rāhula Sāṅkṛtyāyana at Ngor monastery. Niedersächsische Staats- und Universitätsbibliothek Göttingen, Xc 14/38. 
+\end{tabular}
+
+\bigskip\noindent\emph{Hevajrasādhanopāyikā} by Saroruhavajra\\
+\noindent\begin{tabular}{ p{0.2\textwidth} p{0.8\textwidth} }
+	& \textcite*[vo.\ 1 pp.\ 99–121]{gerloff2020} 
+\end{tabular}
+
+\bigskip\noindent\emph{*Hevajranāmasādhana} by Advayavajra\\
+\noindent\begin{tabular}{ p{0.2\textwidth} p{0.8\textwidth} }
+	& Kye rdo rje zhes bya ba'i sgrub pa'i thabs by gNyis su med pa'i rdo rje. No translator/paṇḍita attribution.  In sDe dge bstan 'gyur, Tōh.\ 1243, rgyud, vol.\ 9 (nya), fo.\ 162r3-175r1. 
+\end{tabular}
+
+\bigskip\noindent\emph{Hevajrasādhanopāyikā} by Advayavajra\\
+\noindent\begin{tabular}{ p{0.2\textwidth} p{0.8\textwidth} }
+	& In \emph{Hevajrasādhanasaṅgraha}, fo.\ 8r-22v.
+\end{tabular}
+
+	\section*{Secondary Sources}
+	\printbibliography[notcategory=fullcited,resetnumbers,heading=none]
+
+\end{document}
