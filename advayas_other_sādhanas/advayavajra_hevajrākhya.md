@@ -1,4 +1,4 @@
-# Hevajrākhyā
+# Hevajrākhya
 By Advayavajra.  
 In \emph{Hevajrasādhanasaṅgraha}, fo.\ 8r5-22v1.  
 Transcription by Ryan Conlon.  
