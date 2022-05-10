@@ -74,7 +74,7 @@ tadanantaraṃ bāhya(pūjā)(sic!)guhyatattvapūjābhir aṣṭayoginībhiḥ p
 de'i rjes su phyi dang/ gsang ba dang/ de kho na nyid rnams kyis mchod pa lha mo brgyad po rnams kyis mchod par bya'o/ /'di la yang thabs dang shes rab dag gis de'i bdag nyid rtogs par bya ba'i phyir pi tsu badzra'i mchod pa'o/ /de nas phyag 'tshal ba dang/ sdig pa bshags pa dang/ sdig pa slan chad sdom pa dang/ bsod nams la rjes su yi rang ba dang/ bsod nams yongs su bsngo ba dang/ gsum la skyabs su 'gro ba dang/ byang chub tu sems bskyed pa dang/ bdag nyid kyi dngos po dbul ba dang/ gsol ba gdab pa byas te/ tshangs pa'i gnas bzhi bsgom par bya'o/ /dngos po mtha' dag gi de kho na nyid kyi dngos po bsdus pa/ aom sh'u n+ya t'a dzny'a na badzra sva bh'a ba [D f. 219v] a'atma ko// ham/ stong pa nyid kyi ye shes rdo rje rang bzhin gyi bdag nyid la chos thams cad ces bya ba'i sngags kyi don bsgoms pas rab tu mi gnas pa'i ngo bor gnas so/ /
 
 
-tataḥ praṇidhim anusmṛtya samādher vyutthāya | repheṇa purataḥ sūryamaṇḍalaṃ dhyātvā tatra ((tya)) hūṁkāreṇa vi[$2]śvavajrañ ca dhyātvā tato viśvavajrā(ta)(sic for t) sphuradbhir aṇusaṃha(te○r)(sic! - emend to tair) vvajraiḥ vajraprākā(rai)(perhaps should emend to raṃ) pañjarabandhanam adho vajramayīṃ bhū(mi)(sic for miṃ) parikhāñ ca viñcintayet | ravi[$2]viśvavajrābhyāṃ ca raśmībhūya samantataḥ prasṛtābhyāṃ (tata) (sic for tat) ○ sarvvaṃ dṛḍhīkuryā(ta)(sic for t) |
+tataḥ praṇidhim anusmṛtya samādher vyutthāya | repheṇa purataḥ sūryamaṇḍalaṃ dhyātvā tatra ((tya)) hūṁkāreṇa vi[$2]śvavajrañ ca dhyātvā tato viśvavajrā(ta)(sic for t) sphuradbhir aṇusaṃha(te○r)(sic! - emend to tair) vvajraiḥ vajraprākā(rai)(perhaps should emend to raṃ) pañjarabandhanam adho vajramayīṃ bhū(mi)(sic for miṃ) parikhāñ ca viñcintayet | ravi[$3]viśvavajrābhyāṃ ca raśmībhūya samantataḥ prasṛtābhyāṃ (tata) (sic for tat) ○ sarvvaṃ dṛḍhīkuryā(ta)(sic for t) |
 
 * viśvavajrā(ta)(sic for t) sphuradbhir aṇusaṃhate○((r vva))jraiḥ] ms; Tib. de'i sna tshogs rdo rje'i 'od zer gyi rdul phra rab kyi tshogs 'phros pa des 
 
@@ -287,7 +287,7 @@ sdug ma dang dngos grub ma dag ni rkang pa'i sor mo dang rkang pa'i rgyab tu tsh
 'tshed pa dang/ yid bzangs ma dag ni/ mthe bo dang pus mo gnyis la gnas te/ de la snga ma ni bad kan 'bab pa/ phyi ma ni stobs dang snabs 'bab pa ste/ 'di ni ghasma r'i'o/ /
 
 
-hṛtkamalakarṇṇikāpūrvvādi(dale)(pc reading, marginal; ((dale)) ac reading)ṣu yathākramaṃ trivṛttā kāminīgehācaṇḍikāmāradāri○kāḥ | tatra prathamā nāḍīdvayaṃ bhūcarī | (missing text) atra ca yā nāḍī yaṃ (prasṛte) (sic for prasūte) puṣṇāti gacchati vā sā tadvā[$4]hā |
+hṛtkamalakarṇṇikāpūrvvādi(dale)(pc reading, marginal; ((dale)) ac reading)[$3]ṣu yathākramaṃ trivṛttā kāminīgehācaṇḍikāmāradāri○kāḥ | tatra prathamā nāḍīdvayaṃ bhūcarī | (missing text) atra ca yā nāḍī yaṃ (prasṛte) (sic for prasūte) puṣṇāti gacchati vā sā tadvā[$4]hā |
 
 * Tib. lhag ma rnams ni mkha' spyod ma'o/ /
 * Last sentence is from Muktāvalī ad 1.1.14 (ed. p. 20). Either misunderstood or translated in a strange way in Tib.
