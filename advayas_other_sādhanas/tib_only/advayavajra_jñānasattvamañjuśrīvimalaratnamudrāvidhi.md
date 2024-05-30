@@ -1,11 +1,11 @@
-*Jñānasattvamañjuśrīvimalaratnamudrāvidhi ('jam dpal ye shes sems dpa'i rin po che'i phyag rgya dri ma med pa'i cho ga zhes bya ba) by rgya gar gyi mkhan po dpal ldan gnyis su med pa'i rdo rje. Translation by Prajñāśrījñānakīrti ('rang 'gyur'). In sDe dge bstan 'gyur, Tōh 2097, rgyud, vol. 46 (tshi), 93v6–94v7.
+\*Jñānasattvamañjuśrīvimalaratnamudrāvidhi ('jam dpal ye shes sems dpa'i rin po che'i phyag rgya dri ma med pa'i cho ga zhes bya ba) by rgya gar gyi mkhan po dpal ldan gnyis su med pa'i rdo rje. Translation by Prajñāśrījñānakīrti ('rang 'gyur'). In sDe dge bstan 'gyur, Tōh 2097, rgyud, vol. 46 (tshi), 93v6–94v7.
 
 [D f. 93v]
 / /rgya gar skad du/ dzny'a na satva manydzu shr'i na bi ma la ratna mu dra bi dhi n'a ma/ bod skad du/ 'jam dpal ye shes sems dpa'i rin po che'i phyag rgya dri ma med pa'i cho ga zhes bya ba/ 'phags pa 'jam dpal ye shes sems dpa' chen po la phyag 'tshal lo/ /bdag blo yangs ldan cho ga rdzogs pa dang/ /drin ldan 
 ma nyes gshin byang chub sems dpa' des/ /rtsod dus rkyen dbang shes rab nyam chung la/ /rgyud kyi rin chen phyag rgya btud de bshad/ /snying rje che dang chen por ldan/ /brtse bas don byed skyo ba med/ /spobs pa che zhing phan blor ldan/ /ngang tshul bzang zhing skyo bar bzod/ /shes rab che zhing nus pa yod/ /rtsod 
 
 [D f. 94r]
-*/ /dang tshig gi sbyor sdeb mkhas/ /dpa' zhid rtul phod brtson 'grus che/ /bkas bsgo ba la drid mi 'jog /dad dang shes rab gtso bor gnas/ /bla ma'i brgyud thabs srog bzhin srung/ /yid la mi byed don bstan na/ /padma'i mdangs 'phro gnas las ldog /dam tshig gsum ni mig bzhin 
+/ /dang tshig gi sbyor sdeb mkhas/ /dpa' zhid rtul phod brtson 'grus che/ /bkas bsgo ba la drid mi 'jog /dad dang shes rab gtso bor gnas/ /bla ma'i brgyud thabs srog bzhin srung/ /yid la mi byed don bstan na/ /padma'i mdangs 'phro gnas las ldog /dam tshig gsum ni mig bzhin 
 du; /srung byed rin chen phyag rgya'i snod/ /de la 'jam dpal ye shes sems dpa'i mtshan thos pa tsam gyis yid la mos par 'gyur ba'i skyes bu des ni grub pa'i tshegs chung dus bdag gis byed par 'gyur ro/ /de yang bsam gtan gyi khang par yid du 'ong ba'i ras ris kyi mdun du glegs 
 bam rab tu gnas par byas te bzhag la/ de dang nye bar tsandan dkar pos byugs pa'i mandal khru gang ba grub bzhi pa'i steng du me tog gi tshom bus mchod la/ tsandan gyi bdar bu dang/ me tog dkar po snyim pa gang thogs te/ 'phags pa 'jam dpal ye shes sems dpa' la phyag 'tshal lo/ / 
 ye shes sems dpa' chen po mchog nyid la phyag 'tshal lo/ /mtshan gyi 'khor lo thams cad la phyag 'tshal lo/ /bdag gi rnam par shes pa'i tshogs thams cad dang yang dag pa'i don gyi rnal 'byor du mdzad du gsol zhes lan nyi shu rtsa gcig tu brjod la/ me tog dkar po'i phred ba mgo 

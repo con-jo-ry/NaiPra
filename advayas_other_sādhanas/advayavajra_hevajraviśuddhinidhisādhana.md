@@ -148,7 +148,7 @@ di rnams kyi bla na med pa'i byang chub kyi lam gang yin pa rdo rje'i theg pa la
 'khor bar gnas pa'i bar du bzhugs su gsol ba rnams byas nas/ de nas sems can thams cad la bu gcig pa lta bur lha'i bde bas nye bar 'dzin pa'i rnam pa can gyi byams pa chen po dang*/ rnam par rtog pa thams cad kyi chu gter du bying zhing skyabs med pa'i sems can thams cad sdug bsngal dang sdug bsngal gyi rgyu las 'dod pa'i rang bzhin gyi snying rje chen po dang*/ bde ba chen po dang ma bral bas yongs su tshim pa'i mtshan nyid can gyi dga' ba dang*/ 'jig rten gyi chos brgyad kyi gnyen po'i lam gyis nye bar 'dzin pa'i rnam pa can gyi btang snyoms bsgom par bya ste/ 
 
 
-etadantaraṃ sarvvadharmmapravicayalakṣaṇayā prajñayā sarvadharmān pratītyasamutpādakān svabhā[f. 66v1]vān utpannān adhimuñcan | tadarthaṃ dyotakatvāt sakalavastutatvasārasaṃgrā(ha)(pc; hā ac)katvena ca || oṁ śūnyatājñānavajrasvabhāvātmakāḥ sarvvadharmmāḥ | oṁ śūnyatājñā[f. 66v2]navajrasvabhāvātmako 'ham iti || mantram imaṃ manasā paṭhitvā ajātāniruddhā pade ((sūhla))tuṃ sadguror upadeśāt apratiṣṭhitarūpeṇa saṃtiṣṭhet || 
+etadantaraṃ sarvvadharmmapravicayalakṣaṇayā prajñayā sarvadharmān pratītyasamutpādakān svabhā[f. 66v1]vānutpannān adhimuñcan | tadarthaṃ dyotakatvāt sakalavastutatvasārasaṃgrā(ha)(pc; hā ac)katvena ca || oṁ śūnyatājñānavajrasvabhāvātmakāḥ sarvvadharmmāḥ | oṁ śūnyatājñā[f. 66v2]navajrasvabhāvātmako 'ham iti || mantram imaṃ manasā paṭhitvā ajātāniruddhāpade mūhūrttaṃ sadguror upadeśāt apratiṣṭhitarūpeṇa saṃtiṣṭhet || 
 
 etdanantaraṃ] ms; 'di rnams bla na med pa'o/ / D
 sarvadharmān pratītyasamutpādakān svabhāvān] ms; rten cing 'brel bar 'byung ba tsam gyi chos thams cad rang bzhin gyis D
@@ -158,7 +158,7 @@ sarvadharmān pratītyasamutpādakān svabhāvān] ms; rten cing 'brel bar 'byun
 'di rnams bla na med pa'o/ /chos rab tu rnam par 'byed pa'i mtshan nyid shes rab kyis rten cing 'brel bar 'byung ba tsam gyi chos thams cad rang bzhin gyis ma skyes par mos shing don de mthong zhing snang bar byed pa nyid kyi phyir dang*/ dngos po ma lus pa'i de kho na nyid kyi snying pos bsdus pa nyid kyi phyir na/ oM shU n+ya tA dz+nyA na badz+ra swa b+hA wAt+ma ko 'ham / zhes pa'i sngags 'di dag yid kyis brjod nas/ bla ma dam pa'i man ngag las/ ma skyes shing ma 'gags pa'i gnas la/ mi gnas [D f. 176v]pa'i tshul gyis yud tsam du gnas so/ /
 
 
-etat prabhā[$3]svaraṃ ramyaṃ dharmmatattvaṃ yad ucyate prajñāpāramitā cetat ○ sarvamāraprabhañjanī ||
+etat prabhā[$3]svaraṃ ramyaṃ dharmmatattvaṃ yad ucyate prajñāpāramitā caitat ○ sarvamāraprabhañjanī ||
 
 * Tib doesn't seem to have understood the syntax in a natural way. I would take the Skt: `And [just] this is what is called the reality of Dharma..., and this is the Perfection of Wisdom which destroys all Māras.'
 * rab tu zhi bar byed pa is a rather weak translation for pra-√bhañj.
@@ -281,7 +281,7 @@ sgrogs pa zhes bya ba dang*/
 me'i mtshams su drag tu dgod pa zhes bya ba'i dur khrod du shing ka rany+dza dang*/ rdzu 'phrul chen po pa ra'i gdong dang*/ me lha dang*/ klu pad+ma chen po dang*/ sprin stug po zhes bya ba dang*/ lhor lhag ma zhes bya ba'i dur khrod du shing a mra dang*/ rdzu 'phrul chen po pa ma he'i gdong dang*/ gshin rje dang*/ klu pad+ma dang*/ sprin kun du 'khor ba zhes bya ba dang*/ 
 
 
-nairṝtyakoṇe kilikilāravaṃ śmaśānaṃ | latāparkkaṭīvṛkṣaḥ | śavamukho maharddhikaḥ | rākṣasaḥ | ananto nāgaḥ | [$7] prapūraṇo meghaḥ || paścime jvālākulaṃ śmaśānaṃ | aśokavṛkṣaḥ | makarānano maharddhikaḥ | varuṇaḥ karkkoṭako nāgaḥ | ghoro meghaḥ || 
+nairṛtyakoṇe kilikilāravaṃ śmaśānaṃ | latāparkkaṭīvṛkṣaḥ | śavamukho maharddhikaḥ | rākṣasaḥ | ananto nāgaḥ | [$7] prapūraṇo meghaḥ || paścime jvālākulaṃ śmaśānaṃ | aśokavṛkṣaḥ | makarānano maharddhikaḥ | varuṇaḥ karkkoṭako nāgaḥ | ghoro meghaḥ || 
 
 bden bral du kI li kI li sgrogs pa'i dur khrod du shing la tA parka TI dang*/ rdzu 'phrul chen po pa ro'i gdong dang*/ srin po dang*/ klu mtha' yas dang*/ sprin rab tu gang ba dang*/ nub tu 'bar zhing 'khrugs pa'i dur khrod du shing a sho ka dang*/ rdzu 'phrul chen po pa chu srin gyi gdong dang*/ chu lha dang*/ klu karko Ta dang*/ sprin 'jigs pa zhes bya ba dang*/ 
 
@@ -1077,14 +1077,14 @@ oṁ akāro mukhaṃ sarvvadharmāṇām ādyanutpannatvāt oṁ [$7] āḥ hū�
 oM a kA ro mu khaM sar+b+ba d+har+m+mA NAM A d+ya nut+pan+na twAta oM AHhU~X phaT swA hA zhes pa'i sngags kyis de rnams tshim par bya'o/ /
 
 	kollaïre ṭṭhia bolā mummuṇire kakkolā |
-	ghaṇa kibiḍi ho vajjaï karuṇe kiaï ṇa rolā |
-	tahiṃ ba[f. 80r]la khājjaï gāḍheṃ maaṇā pijjaï |
-	haleṃ kāliṃjara paṇiaï dundura tahiṃ vājjiaï |
-	caüsama ka((cchu))ri sihlā kāpura lāïaa |
+	ghaṇa kiviḍi ho vajjaï karuṇeṃ kiaï ṇa rolā |
+	tahiṃ ba[f. 80r]lu khājjaï gāḍheṃ maaṇā pijjaï |
+	haleṃ kāliṃjara paṇiaï | dundura tahiṃ vājjiaï |
+	caüsama kathuri sihlā kāpura lāïaa |
 	mālaïindhaṇa śāli[$2] tahiṃ bharu khāiaï |
-	pekkhaṇa kheṭa nte karante suddhāsuddha ṇa muniṇi aï |
-	ṇiraṃśu aṅge caḍābia | tahiṃja sarā paṇiaï |
-	malaajeṃ kunduru vāṭaï ḍiṇḍima[$3] tahiṃ vājjiḍā i|| 
+	pekhaṇakheṭa nte karante suddhāsuddha ṇa muniṇi aï |
+	ṇiraṅśu aṅge caḍāvia | tahiṃja sarā paṇiaï |
+	malaajeṃ kunduru vāṭaï ḍiṇḍima[$3] tahiṃ vajjibhā i|| 
 iti vajragītikayā sarvvam asaṃpūrṇṇa ○ saṃpūrṇṇīkṛtya | 
 
 * There's some kind of problem in the last sentence.
