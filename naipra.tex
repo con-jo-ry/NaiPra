@@ -4,8 +4,8 @@
 \usepackage{libertine}
 \usepackage{microtype}
 \usepackage[pdfusetitle,hidelinks]{hyperref}
-% \usepackage{endnotes} % To move \footnote{} to an endnote.
-% \let\footnote=\endnote
+\usepackage{endnotes} % To move \footnote{} to an endnote.
+\let\footnote=\endnote
 \usepackage{color,soul}
 \usepackage{babel}
 \usepackage{setspace}
@@ -28,7 +28,7 @@
 \usepackage{fontspec}
 \usepackage{polyglossia} 		
 	\setmainlanguage{english}
-	\setotherlanguage{sanskrit}
+	\setotherlanguage{sanskrit}	
 	\newfontfamily\sanskritfont[Ligatures=TeX]{Linux Libertine}
 	\newfontfamily\mantrafont[Ligatures=TeX]{STIX Two Text}[Scale=MatchLowercase]
 	\newfontfamily\devfont[Script=Devanagari]{Noto Sans Devanagari}
@@ -39,7 +39,7 @@
 \renewcommand*{\numlabfont}{\normalfont\small}
 \linenummargin{inner}
 \lineation{page}
-\linespread{1.3}
+\linespread{1.1}
 
 
 % for quoting verse
@@ -73,7 +73,7 @@
 \newcommand{\sigmareading}[1]{$\Sigma$\textsubscript{#1}}
 
 %folio and page numbers
-\newcommand{\fnum}[3]{\hspace{0em}$\makebox[0pt][c]{\raisebox{-1.4ex}{\tiny$\perp$}}$\ledouternote{\textenglish{\textnormal{#1\space fo.\space #2}$^{#3}$}}}
+\newcommand{\fnum}[3]{\hspace{0em}$\makebox[0pt][c]{\raisebox{-1.4ex}{\tiny$\perp$}}$\ledouternote{\textenglish{\textnormal{#1\space fol.\space #2}$^{#3}$}}}
 \newcommand{\pnum}[2]{\hspace{0em}$\makebox[0pt][c]{\raisebox{-1.4ex}{\tiny$\perp$}}$\ledouternote{\textenglish{\textnormal{#1\space p.\space #2}}}}
 
 
@@ -122,20 +122,20 @@
 \fancyhead[RE]{Advayavajra's \emph{Nairātmyāprakāśa}}
 \fancyhead[LO]{\leftmark\ - DRAFT EDITION by Ryan Conlon}
 
-   \section{Sigla and Symbols}	
+	\section{Sigla and Symbols}	
 	\subfile{naipra_sigla.tex}
 
 	\section{Edition of the Sanskrit Text}
 	\subfile{naipra_ed.tex}
 
-%	\section{Edition of the Tibetan Text}
-%	\subfile{kn_tib.tex}
+	\section{Collation of the Tibetan Text}
+	\subfile{naipra_tib.tex}
 
-%	\section{English Translation}
-%	\subfile{kn_trans.tex}
+	\section{English Translation}
+	\subfile{naipra_trans.tex}
 
-	%\newpage
-	%\theendnotes
+	\newpage
+	\theendnotes
 
 	\EmbracOff
 
