@@ -2316,7 +2316,7 @@ the
 words
 \emph
 {adhaḥ
-śūkṣām}.
+sūkṣām}.
 \end
 {english}
 \@endanenote 
@@ -3328,7 +3328,8 @@ po}.
 For
 \emph
 {śukla}
-it
+\TIB
+\
 reads
 \emph
 {skya
@@ -3376,8 +3377,8 @@ gives
 for
 the
 clouds
-match
 exactly
+match
 those
 given
 in
@@ -3427,7 +3428,7 @@ bodhavyāni},
 has
 suffered
 from
-an
+another
 eye
 skip.
 The
@@ -3516,13 +3517,13 @@ but
 we
 do
 find
-attestations
+it
 elsewhere,
 such
 as
 in
 'Gos
-lhas
+Lhas
 brtsas's
 translation
 of
@@ -3603,7 +3604,7 @@ translation,
 which
 is
 indeed
-overly
+very
 terse.
 Perhaps
 it
@@ -3685,6 +3686,33 @@ solution.
 {english}
 \@endanenote 
 \@doanenote {29}
+macro:->
+\TIB
+\
+reads
+\emph
+{dkyil
+'khor
+gyi
+'khor
+lo'i
+nang
+du}
+where
+the
+Sanskrit
+manuscript
+reads
+\emph
+{maṇḍalamadhye},
+suggesting
+the
+reading
+\emph
+{maṇḍalacakramadhye}.
+
+\@endanenote 
+\@doanenote {30}
 macro:->\begin
 {english}
 \TIB
@@ -3712,7 +3740,7 @@ bzhi}.
 \end
 {english}
 \@endanenote 
-\@doanenote {30}
+\@doanenote {31}
 macro:->\begin
 {english}
 \TIB
@@ -3732,7 +3760,7 @@ for
 \end
 {english}
 \@endanenote 
-\@doanenote {31}
+\@doanenote {32}
 macro:->\begin
 {english}
 The
@@ -3766,7 +3794,7 @@ las}.
 \end
 {english}
 \@endanenote 
-\@doanenote {32}
+\@doanenote {33}
 macro:->\begin
 {english}
 \TIB
@@ -3790,7 +3818,7 @@ pa}.
 \end
 {english}
 \@endanenote 
-\@doanenote {33}
+\@doanenote {34}
 macro:->\begin
 {english}
 This
@@ -3810,20 +3838,62 @@ saptasaptikaḥ
 ||
 bījaiś
 cihnaṃ
-svadeavsya
+svadevasya
 pratyavekṣaṇam
 ucyate
 |
 sarvair
 aikyam
-anusṭhānaṃ
+anuṣṭhānaṃ
 niṣpattiḥ
 śuddhidharmatā
 ||}
 \end
 {english}
 \@endanenote 
-\@doanenote {34}
+\@doanenote {35}
+macro:->
+\TIB
+\
+probably
+freely
+translates
+this
+portion
+of
+the
+text,
+combining
+\emph
+{dveṣātmikā}
+and
+\emph
+{vijñānaskandhātmikā}
+into
+a
+single
+compound:
+\emph
+{mi
+bskyod
+pas
+rgyas
+btab
+pa/
+zhe
+sdang
+dang/
+rnam
+par
+shes
+pa'i
+phung
+po'i
+bdag
+nyid}.
+
+\@endanenote 
+\@doanenote {36}
 macro:->\begin
 {english}
 \TIB
@@ -3836,13 +3906,13 @@ reading
 for
 \emph
 {bahirupāyarūpakhaṭvāṅgāliṅgitakandharā}:
-`\emph
+\emph
 {kha
 tvaṃ
 gas
 gzugs
 'khyud
-pa'o}'.
+pa'o}.
 There
 is
 no
@@ -3875,7 +3945,7 @@ as
 \end
 {english}
 \@endanenote 
-\@doanenote {35}
+\@doanenote {37}
 macro:->\begin
 {english}
 \TIB
@@ -3893,16 +3963,20 @@ for
 \end
 {english}
 \@endanenote 
-\@doanenote {36}
+\@doanenote {38}
 macro:->\begin
 {english}
-For
-`\emph
-{sparśādimudrāmudritāḥ}'
+Where
+the
+Sanskrit
+manuscript
+reads
+\emph
+{sparśādimudrāmudritāḥ},
 \TIB
 \
-reads
-`\emph
+translations
+\emph
 {pukka
 sī
 la
@@ -3913,54 +3987,81 @@ bzhin
 du
 rgyas
 btab
-pa}',
-\hl
-{TODO}:
-What
-could
-have
-caused
-this?
-See
-HeTa
-2.4.18:
-\emph
-{gaurīñ
-ca
-dveṣataḥ|
-caurīṃ
-mohamudreṇa
-vetālīṃ
-piśunamudrayā|
-ghasmarīṃ
-rāgamudreṇa}:
-i.e.
-Akṣobhya,
-Vairocana,
-Ratnasaṃbhava,
-Amitābha.
-So
-maybe
-conjecture
-\emph
-{pukkasyādimudrāmudritā}
--
-`they
-are
-sealed
-by
+pa},
+with
 the
-[same]
-seals
-of
-Pukkasī
+reading
+\emph
+{rim
+bzhin}
+in
+Peking
 and
-so
-on'?
+sNar
+thang.
+It
+is
+not
+clear
+what
+connection
+these
+four
+goddesses
+have
+with
+a
+list
+beginning
+with
+\emph
+{sparśa}—it
+is
+not
+implausible
+that
+the
+word
+was
+somehow
+copied
+from
+the
+\emph
+{sparśa}
+appearing
+in
+the
+following
+sentence.
+But
+the
+four
+goddesses
+do
+share
+their
+\emph
+{mudrā}s
+with
+Pukkasī,
+Śabarī,
+Caṇḍālī,
+and
+Ḍombi,
+as
+taught
+in
+HeTa
+2.4.16–19
+and
+justified
+in
+2.4.87–88.
 \end
 {english}
 \@endanenote 
-\@doanenote {37}
+\@doanenote {39}
 macro:->\begin
 {english}
 \TIB
@@ -4034,7 +4135,7 @@ see
 \end
 {english}
 \@endanenote 
-\@doanenote {38}
+\@doanenote {40}
 macro:->\begin
 {english}
 The
@@ -4081,7 +4182,7 @@ plausible.
 \end
 {english}
 \@endanenote 
-\@doanenote {39}
+\@doanenote {41}
 macro:->\begin
 {english}
 See
@@ -4096,7 +4197,7 @@ reading
 \end
 {english}
 \@endanenote 
-\@doanenote {40}
+\@doanenote {42}
 macro:->\begin
 {english}
 1-2a
@@ -4439,7 +4540,7 @@ secure.
 \end
 {english}
 \@endanenote 
-\@doanenote {41}
+\@doanenote {43}
 macro:->\begin
 {english}
 2c–4b
@@ -4915,7 +5016,7 @@ indicates.
 \end
 {english}
 \@endanenote 
-\@doanenote {42}
+\@doanenote {44}
 macro:->\begin
 {english}
 4d
@@ -4981,7 +5082,7 @@ p.\
 \end
 {english}
 \@endanenote 
-\@doanenote {43}
+\@doanenote {45}
 macro:->\begin
 {english}
 \TIB
@@ -4997,7 +5098,7 @@ verse.
 \end
 {english}
 \@endanenote 
-\@doanenote {44}
+\@doanenote {46}
 macro:->\begin
 {english}
 cf.\
@@ -5018,7 +5119,7 @@ reads
 \end
 {english}
 \@endanenote 
-\@doanenote {45}
+\@doanenote {47}
 macro:->\begin
 {english}
 \TIB
@@ -5041,7 +5142,7 @@ bzhin}.
 \end
 {english}
 \@endanenote 
-\@doanenote {46}
+\@doanenote {48}
 macro:->\begin
 {english}
 I
@@ -5107,7 +5208,7 @@ become
 \end
 {english}
 \@endanenote 
-\@doanenote {47}
+\@doanenote {49}
 macro:->\begin
 {english}
 cf.\
@@ -5155,7 +5256,7 @@ normalisation).
 \end
 {english}
 \@endanenote 
-\@doanenote {48}
+\@doanenote {50}
 macro:->\begin
 {english}
 \textcites
@@ -5427,7 +5528,7 @@ addressed.
 \end
 {english}
 \@endanenote 
-\@doanenote {49}
+\@doanenote {51}
 macro:->\begin
 {english}
 \TIB
@@ -5475,7 +5576,7 @@ ba}.
 \end
 {english}
 \@endanenote 
-\@doanenote {50}
+\@doanenote {52}
 macro:->\begin
 {english}
 This
@@ -5529,7 +5630,7 @@ begins
 \end
 {english}
 \@endanenote 
-\@doanenote {51}
+\@doanenote {53}
 macro:->\begin
 {english}
 \TIB
@@ -5603,7 +5704,7 @@ here.
 \end
 {english}
 \@endanenote 
-\@doanenote {52}
+\@doanenote {54}
 macro:->\begin
 {english}
 For
@@ -5627,7 +5728,7 @@ translating
 \end
 {english}
 \@endanenote 
-\@doanenote {53}
+\@doanenote {55}
 macro:->\begin
 {english}
 This
@@ -5681,7 +5782,7 @@ p.\
 \end
 {english}
 \@endanenote 
-\@doanenote {54}
+\@doanenote {56}
 macro:->\begin
 {english}
 \hl
@@ -5697,7 +5798,7 @@ of
 \end
 {english}
 \@endanenote 
-\@doanenote {55}
+\@doanenote {57}
 macro:->\begin
 {english}
 This
@@ -5750,7 +5851,7 @@ latter.
 \end
 {english}
 \@endanenote 
-\@doanenote {56}
+\@doanenote {58}
 macro:->\begin
 {english}
 Here
@@ -5831,7 +5932,7 @@ to
 \end
 {english}
 \@endanenote 
-\@doanenote {57}
+\@doanenote {59}
 macro:->\begin
 {english}
 This
@@ -5942,7 +6043,7 @@ prasūte.
 \end
 {english}
 \@endanenote 
-\@doanenote {58}
+\@doanenote {60}
 macro:->\begin
 {english}
 The
@@ -5976,7 +6077,7 @@ etc.
 \end
 {english}
 \@endanenote 
-\@doanenote {59}
+\@doanenote {61}
 macro:->\begin
 {english}
 There
@@ -6203,7 +6304,7 @@ advaya.
 \end
 {english}
 \@endanenote 
-\@doanenote {60}
+\@doanenote {62}
 macro:->\begin
 {english}
 I
@@ -6379,7 +6480,7 @@ Mantra
 \end
 {english}
 \@endanenote 
-\@doanenote {61}
+\@doanenote {63}
 macro:->\begin
 {english}
 I
@@ -6498,7 +6599,7 @@ Drutavilambita.
 \end
 {english}
 \@endanenote 
-\@doanenote {62}
+\@doanenote {64}
 macro:->\begin
 {english}
 I
@@ -6570,7 +6671,7 @@ Puṣpitāgrā.
 \end
 {english}
 \@endanenote 
-\@doanenote {63}
+\@doanenote {65}
 macro:->
 That
 is
@@ -6584,19 +6685,5 @@ the
 {dveṣakula}
 of
 Akṣobhya.
-
-\@endanenote 
-\@doanenote {64}
-macro:->
-The
-\emph
-{khaṭvāṅga}
-serves
-as
-her
-male
-consort
-(\emph
-{upāya}).
 
 \@endanenote 

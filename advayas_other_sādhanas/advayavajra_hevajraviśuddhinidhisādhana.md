@@ -34,12 +34,14 @@ namaḥ śrīhevajāya |
 
 kye rdo rje'i sgrub pa'i thabs rnam par dag pa'i gter zhes bya ba/rgya gar skad du/ bi shud+d+ha ni d+hi nA ma he badz+ra sA d+ha naM/ bod skad du/ kye rdo rje'i sgrub pa'i thabs rnam par dag pa'i gter zhes bya ba/ dpal ldan bla ma dam pa'i zhabs la phyag 'tshal lo/ /
 
+
 ṣoḍaśa(bhuja)(pc - above line/marginal)m aṣṭāsyaṃ hūṃjaṃ gauryādiveṣṭitam | pādākrānta(catumāra) (sic for °caturmāraṃ) nairā[$2]tmyāśliṣṭakandharaṃ || caturvviṃśatinetrāḍhyaṃ śatārddhamuṇḍamālinaṃ | pañcamudrādharan nīlan natvā tatsādhanaṃ (brūve) (sic for bruve) ||
 
 hūṃ skyes sngon po nyi shu rtsa bzhi'i spyan gyis phyug pa'i zhal brgyad pa/ /
 bcu drug phyag ste zhabs kyis bdud bzhi gnon zhing brgya phyed mgo phreng can/ /
 phyag rgya lnga 'chang bdag med ma yis mgrin 'khyud dkar mo la sogs kyis/ /
 bskor bar phyag byas nas ni de yi sgrub pa'i thabs ni brjod par bya/ /
+
 
 ādau tāvad yogīn kṛtamukhaśaucādikaḥ | oṁ [$3] rakṣa rakṣa hūṁ hūṁ hūṁ phaṭ svāheti anena kṛtasthānarakṣa○ḥ | sarvastvārthody(ukta)(ms; ata, possible em.)cetāḥ || śrīhevajroktamaṇḍalapraviṣṭaḥ | paripāṭyābhiṣiktaḥ | sa[$4]myaganujñātaḥ | suviśuddhāviparīta(ta)(em.; deest in ms.)ttvajñānaprāpto la○bdhanimittiś ca śmaśānādimanonukūla(sthāne)(pc - lower margin) | 
 
@@ -435,6 +437,7 @@ nairṝtyakoṇe caṁkārajāṃ caṇḍālīn nabhaṃśyāmān dakṣiṇena
 bden bral gyi mtshams su tsaM yig las skyes pa'i gtum mo nam mkha' ltar sngo bsangs ma g.yas na 'khor lo 'dzin zhing*/ phyag g.yon na thong gshol te/ srin po mnan pa me'i khams kyi rang bzhin du bsgom par bya'o/ /
 rlung gi mtshams su DaM yig las skyes pa'i g.yung mo sku mdog khra mo g.yas na rdo rje 'dzin zhing*/ phyag g.yon pa sdigs mdzub ste/ thags bzangs ris la yang dag par zhon pa rlung gi khams kyi rang bzhin du bsam par bya ste/ 
 
+
 etāḥ sarvā ○ raktavarttulatrinetrāḥ arddhaparyaṅkanāṭyasthāḥ | piṅgordhvakeśāḥ | dvibhujāḥ | pañcamudrā[$5]dharāś candrāsanāḥ | navanāṭyarasānvitāḥ (draṃṣṭrākarā○lavadanāḥ)(sic for daṃṣṭā°) | (((digasvarūḥ)))(?) | bodhicittotsarggasaṃbhūtā bhāvanīyāḥ | 
 
 'di rnams thams cad ni/ dmar zhing zlum pa'i spyan gsum ma/ skyil krung phyed pa'i gar gyis gnas pa/ dbu skra dmar ser gyen du brdzes pa/ phyag gnyis ma/ phyag rgya lnga dang ldan pa/ zla ba'i gdan can/ gar gyi nyams dgu dang ldan pa/ gcer bu mche ba gtsigs pa'i zhal/ /byang chub kyi sems phung ba las yang dag par byung bar bsgom par bya'o/ /
@@ -448,6 +451,7 @@ mahāsukhaikarasena] ms, pc reading illegible; shin tu bde ba chen por ro gcig p
 * Passage very close to Saroruhavajra.
 
 de nas sku dang gsung dang thugs kyi rang bzhin oM AHhU~X zhes pa yi ge gsum po hoHyig dmar po gnyis dang spel ba dri za'i sems can zhes bya bar blta ste/ kun dga' ba dang bcas pa bcom ldan 'das zhal gyi sgo nas rdo rje'i lam nas lha'i khongs su zhugs te/ de nas zhu bar blta'o/ /de ma thag tu bcom ldan 'das shin tu bde ba chen por ro gcig pas rang gi rig ma dang lhan cig zhu bar gyur pa sa bon gyi gzugs kyis rnam par gnas par bsam mo/ /
+
 
 tataḥ pukkasyādaya[f. 71r]ś catasrodevyaḥ | anāthā vayam iti matvā mahādaurmanasyaprāptāḥ |  atīvotkaṇṭhitāś cittaprabodhakābhir vajragītikābhiḥ sañcodya bhagavantam u[$2]tthāpayati ||
 
@@ -494,6 +498,7 @@ g.yung mo bdag ni grong khyer ma/ /
 snying rje chad par ma mdzad cig_/
 
 * I only noted a few transmissional errors in this section.
+
 
 iti tatvagītikā((ṇa))ṃ(i.e. bhiś?) [$5] codito bhagavān svapraprabodhita iva uttiṣṭhed iti ○ | tad anu amṛtacandrarūpaṃ | tad upari | aṁ hūṁ bījodbhūtaṃ cihnadvayaṃ tadbījadvayāṅkitaṃ | tataḥ sū[$6]ryamaṇḍalaṃ | 
 
@@ -624,7 +629,7 @@ tataḥ kṛśṇayaṃkārajaṃ vāyumaṇḍalaṃ | ta[$7]d upari raktarepha
 de nas yaM yig las skyes pa'i rlung gi dkyil 'khor nag po/ /de'i steng du re pha yongs su gyur pa me'i dkyil 'khor dmar po/ /de'i steng du a yig las skyes pa'i mgo bo gsum la gnas pa'i thod pa phyi dkar zhing nang dmar ba/ de'i steng du b+hUM AM dzr-IM khaM hU~X ste 'di rnams yongs su gyur pas de bzhin gshegs pa lnga'i bdag nyid kyi bdud rtsi lnga dang sgron ma lnga po rang rang gi sa bon gyis byin gyis brlabs pa'o/ /
 
 
-tad upari oṁkārākṣaraṃ apidhānarūpaṃ | akārapariṇataṃ candramaṇḍalaṃ | tad upari hūṁbhava va[$2]jra | tad bījāṅkitaṃ | vātoddīpitavahninā vajraṃ vihāya tatsarvadruvībhūya kapāla<ā>vasthitaṃ | vajrañ ca catupañcavārān | ((ucchā ucchāya)) | tad amṛtadravaṃ pari[$3]ghaṭṭanaṃ vidhāya dravībhūya tatreṣān patati || 
+tad upari oṁkārākṣaraṃ api dhānarūpaṃ | akārapariṇataṃ candramaṇḍalaṃ | tad upari hūṁbhava va[$2]jra | tad bījāṅkitaṃ | vātoddīpitavahninā vajraṃ vihāya tatsarvadruvībhūya kapāla<ā>vasthitaṃ | vajrañ ca catupañcavārān | ((ucchā ucchāya)) | tad amṛtadravaṃ pari[$3]ghaṭṭanaṃ vidhāya dravībhūya tatreṣān patati || 
 
 oṁkārākṣaraṃ] ms; oM yig las D
 
@@ -688,7 +693,7 @@ tato gauryādyaṣṭayoginī | maṇḍādhipatiñ ca [$7] daśasudikṣu niran
 de nas gau rI la sogs pa'i rnal 'byor ma brgyad [D f. 183r]@#/ /dang dkyil 'khor gyi gtso bo yang phyogs bcu rnams su bar mtshams med par spros nas/ sna tshogs pa'i gdul bya'i sems can rnams kyi sna tshogs pa'i gzugs su sprul te/ ji ltar mngon par 'dod pa'i don byas nas de bsdus te/ de'i dkyil 'khor du byas nas bde ba chen po'i rang bzhin du blta bar bya'o/ /chos kyi phyag rgya nye bar bstan pa'o/ /
 
 
-evaṃ samastatraidhātukam eva maṇḍalacakrākāram adhimuñan | etac ca prajñopāyaikarasamahāsukhasaṃbhava[$2]bodhicittavinirgatam iti viditvā gauryādyaṣṭadevī svakīyeṣv aṣṭasu mukheṣu saṃharet | tad anu saptā((na))nāni pradhānamukhe saṃharati | tathā catu[$3]rdaśabhujān sacihnān pradhānābhujadvaye antarbhāva○yet | tathā caraṇadvayaṃ pradhānacaraṇadva<..>ye saṃharati | 
+evaṃ samastatraidhātukam eva maṇḍalacakrākāram adhimuñcan | etac ca prajñopāyaikarasamahāsukhasaṃbhava[$2]bodhicittavinirgatam iti viditvā gauryādyaṣṭadevī svakīyeṣv aṣṭasu mukheṣu saṃharet | tad anu saptā((na))nāni pradhānamukhe saṃharati | tathā catu[$3]rdaśabhujān sacihnān pradhānābhujadvaye antarbhāva○yet | tathā caraṇadvayaṃ pradhānacaraṇadva<..>ye saṃharati | 
 
 de ltar khams gsum po kun nas dkyil 'khor gyi 'khor lor mos par bya zhing*/ 'di rnams kyang shes rab dang thabs ro gcig pa bde ba chen po'i 'byung gnas byang chub kyi sems las rnam par 'byung ba'o zhes shes par byas nas/ gau rI la sogs pa'i lha mo brgyad po/ rang gi sku'i zhal brgyad du bsdu bar bya'o/ /de'i rjes su zhal bdun po ni zhal gyi gtso bo la bsdu'o/ /de bzhin du phyag bcu bzhi mtshan ma dang bcas pa ni phyag gi gtso bo gnyis kyi nang du bsgom par bya'o/ /de nas zhabs gnyis ni zhabs kyi gtso bo gnyis la bsdu'o/ /
 
