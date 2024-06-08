@@ -3966,16 +3966,37 @@ for
 \@doanenote {38}
 macro:->\begin
 {english}
-Where
-the
+The
 Sanskrit
-manuscript
-reads
+manuscript's
+reading
 \emph
-{sparśādimudrāmudritāḥ},
+{sparśādimudrāmudritāḥ}
+is
+difficult
+to
+accept,
+given
+that
+these
+four
+goddesses
+have
+no
+obvious
+connection
+to
+a
+list
+beginning
+with
+\emph
+{sparśa}.
 \TIB
-\
-translations
+,
+more
+plausibly,
+reads
 \emph
 {pukka
 sī
@@ -3998,47 +4019,16 @@ in
 Peking
 and
 sNar
-thang.
-It
-is
-not
-clear
-what
-connection
-these
+thang
+instead
+of
+\emph
+{rang
+bzhin}.
+The
 four
 goddesses
-have
-with
-a
-list
-beginning
-with
-\emph
-{sparśa}—it
-is
-not
-implausible
-that
-the
-word
-was
-somehow
-copied
-from
-the
-\emph
-{sparśa}
-appearing
-in
-the
-following
-sentence.
-But
-the
-four
-goddesses
-do
+indeed
 share
 their
 \emph
@@ -4058,13 +4048,53 @@ and
 justified
 in
 2.4.87–88.
+While
+a
+conjecture
+following
+exactly
+the
+Tibetan
+translation
+would
+be
+somewhat
+invasie,
+the
+more
+minimal
+conjecture
+of
+\emph
+{pukkasyādimudrāmudritāḥ}
+seems
+reasonable.
+It
+seems
+not
+implausible
+that
+\emph
+{sparśā°}
+was
+accidentally
+copied
+from
+the
+\emph
+{sparśa°}
+appearing
+in
+the
+following
+sentence.
 \end
 {english}
 \@endanenote 
 \@doanenote {39}
-macro:->\begin
-{english}
-\TIB
+macro:->
+\begin
+{english}\TIB
 \
 erroneously
 renders
@@ -4107,18 +4137,18 @@ pa}
 for
 example,
 the
+seventh
+chapter
+of
 \emph
 {Lalitavistara},
-in
-prose
-after
-7.54
+ed.\
+p.\
+105
 and
 D
 f.\
 57r).
-TODO:
-reference.
 On
 the
 meaning
@@ -4134,55 +4164,140 @@ see
 {vogel1968}.
 \end
 {english}
+
 \@endanenote 
 \@doanenote {40}
-macro:->\begin
-{english}
-The
-manuscript's
-reading
+macro:->
+\begin
+{english}\TIB
+\
+lacks
+a
+reflex
 of
 \emph
-{pañcabuddhasvabhāvaśuddhapañcamuṇḍāni}
-yields
-an
-unnatural
+{piṅgala}
+in
 \emph
-{karmadhāraya}
-compound.
-\TIB
-\
-does
-not
-have
-any
-word
-corresponding
-to
+{jvalitapiṅgalordhvakeśāḥ}:
 \emph
-{śuddha},
-so
-one
-may
-also
-consider
-the
-conjecture
-`\emph
-{pañcabuddhasvabhāvāni
-pañca
-muṇḍāni}'.
-I
-believe
-both
-conjectures
-are
-equally
-plausible.
+{skra
+'bar
+ba
+gyen
+du
+brdzes
+pa}.
 \end
 {english}
+
 \@endanenote 
 \@doanenote {41}
+macro:->
+\begin
+{english}In
+place
+of
+\emph
+{tāluke},
+\TIB
+\
+reads
+\emph
+{spyi
+bor},
+reflecting
+\emph
+{mūrdhni}
+or
+something
+equivalent.
+On
+the
+face
+of
+it,
+\TIB
+\
+strikes
+me
+as
+more
+plausible,
+but
+I
+have
+yet
+to
+find
+a
+parallel
+in
+other
+Hevajra
+or
+Nairātmyā
+\emph
+{sādhana}s
+and
+thus
+do
+not
+feel
+confident
+in
+making
+changes
+to
+the
+transmitted
+text.
+\end
+{english}
+
+\@endanenote 
+\@doanenote {42}
+macro:->
+The
+\emph
+{karmadhāraya}
+compound
+\emph
+{pañcabuddhasvabhāvaśuṣkapañcamuṇḍāni}
+is
+somewhat
+awkward
+but
+perhaps
+does
+not
+require
+emendation.
+
+\@endanenote 
+\@doanenote {43}
+macro:->
+\TIB
+\
+renders
+\emph
+{vyāghracarmāvṛtakaṭinitambāḥ}
+as
+if
+reading
+\emph
+{vyāghracarmanivasanāḥ}:
+\emph
+{stag
+gi
+pags
+pa'i
+sham
+thabs
+can}.
+
+\@endanenote 
+\@doanenote {44}
 macro:->\begin
 {english}
 See
@@ -4197,7 +4312,7 @@ reading
 \end
 {english}
 \@endanenote 
-\@doanenote {42}
+\@doanenote {45}
 macro:->\begin
 {english}
 1-2a
@@ -4540,7 +4655,7 @@ secure.
 \end
 {english}
 \@endanenote 
-\@doanenote {43}
+\@doanenote {46}
 macro:->\begin
 {english}
 2c–4b
@@ -5016,7 +5131,7 @@ indicates.
 \end
 {english}
 \@endanenote 
-\@doanenote {44}
+\@doanenote {47}
 macro:->\begin
 {english}
 4d
@@ -5082,7 +5197,7 @@ p.\
 \end
 {english}
 \@endanenote 
-\@doanenote {45}
+\@doanenote {48}
 macro:->\begin
 {english}
 \TIB
@@ -5098,7 +5213,7 @@ verse.
 \end
 {english}
 \@endanenote 
-\@doanenote {46}
+\@doanenote {49}
 macro:->\begin
 {english}
 cf.\
@@ -5119,7 +5234,7 @@ reads
 \end
 {english}
 \@endanenote 
-\@doanenote {47}
+\@doanenote {50}
 macro:->\begin
 {english}
 \TIB
@@ -5142,7 +5257,7 @@ bzhin}.
 \end
 {english}
 \@endanenote 
-\@doanenote {48}
+\@doanenote {51}
 macro:->\begin
 {english}
 I
@@ -5208,7 +5323,7 @@ become
 \end
 {english}
 \@endanenote 
-\@doanenote {49}
+\@doanenote {52}
 macro:->\begin
 {english}
 cf.\
@@ -5256,7 +5371,7 @@ normalisation).
 \end
 {english}
 \@endanenote 
-\@doanenote {50}
+\@doanenote {53}
 macro:->\begin
 {english}
 \textcites
@@ -5498,7 +5613,19 @@ prerequisite
 for
 the
 subsequent
-stages.
+stages,
+much
+less
+about
+the
+kind
+initiation
+required
+to
+engage
+in
+these
+practices.
 There
 may
 be
@@ -5507,7 +5634,8 @@ elsewhere
 in
 Advayavajra's
 corpus
-regarding
+that
+addresses
 this
 question,
 which
@@ -5528,7 +5656,7 @@ addressed.
 \end
 {english}
 \@endanenote 
-\@doanenote {51}
+\@doanenote {54}
 macro:->\begin
 {english}
 \TIB
@@ -5576,7 +5704,7 @@ ba}.
 \end
 {english}
 \@endanenote 
-\@doanenote {52}
+\@doanenote {55}
 macro:->\begin
 {english}
 This
@@ -5630,7 +5758,7 @@ begins
 \end
 {english}
 \@endanenote 
-\@doanenote {53}
+\@doanenote {56}
 macro:->\begin
 {english}
 \TIB
@@ -5704,7 +5832,7 @@ here.
 \end
 {english}
 \@endanenote 
-\@doanenote {54}
+\@doanenote {57}
 macro:->\begin
 {english}
 For
@@ -5728,7 +5856,7 @@ translating
 \end
 {english}
 \@endanenote 
-\@doanenote {55}
+\@doanenote {58}
 macro:->\begin
 {english}
 This
@@ -5782,7 +5910,7 @@ p.\
 \end
 {english}
 \@endanenote 
-\@doanenote {56}
+\@doanenote {59}
 macro:->\begin
 {english}
 \hl
@@ -5798,7 +5926,7 @@ of
 \end
 {english}
 \@endanenote 
-\@doanenote {57}
+\@doanenote {60}
 macro:->\begin
 {english}
 This
@@ -5851,7 +5979,7 @@ latter.
 \end
 {english}
 \@endanenote 
-\@doanenote {58}
+\@doanenote {61}
 macro:->\begin
 {english}
 Here
@@ -5932,7 +6060,7 @@ to
 \end
 {english}
 \@endanenote 
-\@doanenote {59}
+\@doanenote {62}
 macro:->\begin
 {english}
 This
@@ -6043,7 +6171,7 @@ prasūte.
 \end
 {english}
 \@endanenote 
-\@doanenote {60}
+\@doanenote {63}
 macro:->\begin
 {english}
 The
@@ -6077,7 +6205,7 @@ etc.
 \end
 {english}
 \@endanenote 
-\@doanenote {61}
+\@doanenote {64}
 macro:->\begin
 {english}
 There
@@ -6304,7 +6432,7 @@ advaya.
 \end
 {english}
 \@endanenote 
-\@doanenote {62}
+\@doanenote {65}
 macro:->\begin
 {english}
 I
@@ -6480,7 +6608,7 @@ Mantra
 \end
 {english}
 \@endanenote 
-\@doanenote {63}
+\@doanenote {66}
 macro:->\begin
 {english}
 I
@@ -6599,7 +6727,7 @@ Drutavilambita.
 \end
 {english}
 \@endanenote 
-\@doanenote {64}
+\@doanenote {67}
 macro:->\begin
 {english}
 I
@@ -6671,7 +6799,7 @@ Puṣpitāgrā.
 \end
 {english}
 \@endanenote 
-\@doanenote {65}
+\@doanenote {68}
 macro:->
 That
 is
