@@ -100,7 +100,7 @@
 \newcommand{\dsh} {\hspace{0em}-\hspace{0em}}
 
 %%% Bibliography
-\usepackage[authordate16,backend=biber,idemtracker=true]{biblatex-chicago}
+\usepackage[authordate16,backend=biber]{biblatex-chicago}
 \addbibresource{~/Documents/personal/bibliography.bibtex}
 \renewcommand{\mkbibnamefamily}[1]{\textsc{#1}}
 \renewcommand\postnotedelim{\addcolon\addspace} % adds colon after year in citation.
@@ -186,23 +186,28 @@
 \noindent\begin{longtable}{ p{0.07\textwidth} p{0.93\textwidth} }
 	ed. & \fullcite*{lefmann1902}.\mybibexclude{lefmann1902} \\ 
 	D & \emph{'Phags pa rgya cher rol pa zhes bya ba theg pa chen po'i mdo}. Tōh.\ 95, mdo sde, vol.\ 46 (Kha) 1v1-216v7. Translation by Jinamitra, Dānaśīla, Munivarman, and Ye shes sde.
+\end{longtable}
 
+\noindent\emph{Vajravārāhīsādhana} by Advayavajra
+\noindent\begin{longtable}{ p{0.07\textwidth} p{0.93\textwidth} }
+	ed-f & In \fullcite*{finot1934}.\mybibexclude{finot1934} \\ 
+	ed-b & \emph{Sādhanamālā} no.\ 217.
 \end{longtable}
 
 \noindent\emph{Saptākṣarasādhana} 
 \noindent\begin{longtable}{ p{0.07\textwidth} p{0.93\textwidth} }
 	ed.\ & \emph{Sādhanamālā} no.\ 251. \\
-	D & \emph{Yi ge bdun pa'i sgrub thabs} by gNyis su med pa'i rdo rje. Trans.\ by Mar pa chos kyi dbang phyug. sDe dge bstan 'gyur, Tōh.\ 1483, rgyud, vol.\ 22 (zha), fo.\ 130r7–133v1. 
+	D & \emph{Yi ge bdun pa'i sgrub thabs} by gNyis su med pa'i rdo rje. Trans.\ by Mar pa chos kyi dbang phyug. sDe dge bstan 'gyur, Tōh.\ 1483, rgyud, vol.\ 22 (Zha), fols.\ 130r7–133v1. 
 \end{longtable}
 
-\noindent\emph{Sādhanamāla} 
+\noindent\emph{Sādhanamālā} 
 \noindent\begin{longtable}{ p{0.07\textwidth} p{0.93\textwidth} }
 	& \fullcite*{bhattacharyya1925}.\mybibexclude{bhattacharyya1925}.
 \end{longtable}
 
-\noindent\emph{Sādhanamāla} 
+\noindent\emph{Sādhanavidhāna} (a.k.a.\ \emph{Buddhagranthasaṅgraha}) 
 \noindent\begin{longtable}{ p{0.07\textwidth} p{0.93\textwidth} }
-	& National Archives Kathmandu, NAK 3-693 (NGMPP A 936/11) ... 
+	& National Archives Kathmandu, NAK 3-693 (NGMPP A 936/11). Palm leaf, hooked Newar script, dated 658 Nepal Saṃvat, 109 folios. 
 \end{longtable}
 
 \noindent\emph{Sekatātparyasaṅgraha} by Advayavajra
@@ -210,9 +215,14 @@
 	& \cite[403–414]{mathes2015} 
 \end{longtable}
 
-\noindent\emph{Śrīhevajraviśuddhinidhi} by Advayavajra
+\noindent\emph{Śrīcakrasaṃvaropadeśa} by Advayavajra
 \noindent\begin{longtable}{ p{0.07\textwidth} p{0.93\textwidth} }
-	ms & In \emph{Hevajrasādhanasaṅgraha}, fo.\ 65r-80v. \\
+	D & \emph{dPal 'khor lo sdom pa'i man ngag} by gNyis med rdo rje. Trans.\ by Varendraruci and rMa ban Chos 'bar. sDe dge bstan 'gyur, Tōh.\ 1485, rgyud, vol.\ 22 (Zha), fols.\ 139r1–143v7. 
+\end{longtable}
+
+\noindent\emph{Hevajraviśuddhinidhi} by Advayavajra
+\noindent\begin{longtable}{ p{0.07\textwidth} p{0.93\textwidth} }
+	ms & In \emph{Hevajrasādhanasaṅgraha}, fols.\ 65r-80v. \\
 	D & \emph{Kye rdo rje'i sgrub pa'i thabs rnam par dag pa'i gter} by gNyis su med pa'i rdo rje. Trans.\ by Vanaratna and 'Gos gzhon nu dpal. sDe dge bstan 'gyur, Tōh.\ 1244, rgyud, vol.\ 9 (nya), fo.\ 175r1-189r4. 
 \end{longtable}
 
@@ -250,3 +260,6 @@
 	\printbibliography[notcategory=fullcited,resetnumbers,heading=none]
 
 \end{document}
+
+
+% MS citations: material, akṣara, date, folios
