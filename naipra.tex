@@ -6,13 +6,14 @@
 \usepackage[pdfusetitle,hidelinks]{hyperref}
 \usepackage{endnotes} % To move \footnote{} to an endnote.
 \let\footnote=\endnote
+\renewcommand{\theendnote}{\roman{endnote}}
 \usepackage{color,soul}
 \usepackage{babel}
 \usepackage{setspace}
-\usepackage[series={A,B},noend,noeledsec,noledgroup]{reledmac}
+\usepackage[series={A},noend,noeledsec,noledgroup]{reledmac}
+
 \usepackage{verbatim}
 \Xarrangement[A]{paragraph}
-\Xarrangement[B]{paragraph}
 \usepackage{fancyhdr}
 
 \usepackage[nospacearound]{extdash} % in order to allow hyphanation with dashes
@@ -77,8 +78,7 @@
 
 
 % apparatus
-\newcommandx{\variants}[2][1,usedefault]{\Bfootnote[#1]{#2}}
-\newcommandx{\lacunae}[2][1,usedefault]{\Afootnote[#1]{#2}}
+\newcommandx{\variants}[2][1,usedefault]{\Afootnote[#1]{#2}}
 
 
 % main edit commands
@@ -177,9 +177,14 @@
 	D & dPal dgyes pa'i rdo rje'i dka' 'grel mu tig phreng ba by Ratnākaraśānti. Translation by Śāntibhadra and 'Gos lhas btsas. In sDe dge bstan 'gyur, Tōh.\ 1189, rgyud, vol.\ 4 (ga), fo.\ 221r1–297r7. 
 \end{longtable}
 
+\noindent\emph{Yogāmbaratantra}
+\noindent\begin{longtable}{ p{0.07\textwidth} p{0.93\textwidth} }
+	& National Archives Kathmandu, 4/2917 (NGMCP A 142-12). Paper (?), unkown script, Nepal Saṃvat 1036, 48 folios.
+\end{longtable}
+
 \noindent\emph{Ratnāvalī} by Kamalanātha 
 \noindent\begin{longtable}{ p{0.07\textwidth} p{0.93\textwidth} }
-	&  \emph{Ratnāvalī Hevajrapañjikā}. Kaiser Library, 231 (NGMPP C 26-4[2]). Palm leaf, proto-Bengali script, 23 fos., complete. 
+	& \emph{Ratnāvalī Hevajrapañjikā}. Kaiser Library, 231 (NGMPP C 26-4[2]). Palm leaf, proto-Bengali script, 23 fos., complete. 
 \end{longtable}
 
 \noindent\emph{Lalitavistara}
@@ -192,6 +197,13 @@
 \noindent\begin{longtable}{ p{0.07\textwidth} p{0.93\textwidth} }
 	ed-f & In \fullcite*{finot1934}.\mybibexclude{finot1934} \\ 
 	ed-b & \emph{Sādhanamālā} no.\ 217.
+	Dt & \emph{rDo rje phag mo sgrub pa'i thabs} by gNyis su med pa'i rdo rje. Trans.\ by Vajrapāṇi and mTshur ston dBang nges. sDe dge bstan 'gyur, Tōh.\ 1542, rgyud, vol.\ 23 (Za), fols.\ 181r1-182r7.
+	Dy & \emph{rDo rje phag mo'i sgrub thabs} by gNyis med rdo rje. Trans.\ by Yar lung Grags pa rgyal mtshan. sDe dge bstan 'gyur, Tōh.\ 3607, rgyud, vol.\ 77 (Mu), fol.\ 229v2–230v5.
+\end{longtable}
+
+\noindent\emph{Vajravārāhīsādhana} by Umpāpatideva
+\noindent\begin{longtable}{ p{0.07\textwidth} p{0.93\textwidth} }
+	ed-f & In \fullcite*{english2002} \\ 
 \end{longtable}
 
 \noindent\emph{Saptākṣarasādhana} 
@@ -220,12 +232,6 @@
 	D & \emph{dPal 'khor lo sdom pa'i man ngag} by gNyis med rdo rje. Trans.\ by Varendraruci and rMa ban Chos 'bar. sDe dge bstan 'gyur, Tōh.\ 1485, rgyud, vol.\ 22 (Zha), fols.\ 139r1–143v7. 
 \end{longtable}
 
-\noindent\emph{Hevajraviśuddhinidhi} by Advayavajra
-\noindent\begin{longtable}{ p{0.07\textwidth} p{0.93\textwidth} }
-	ms & In \emph{Hevajrasādhanasaṅgraha}, fols.\ 65r-80v. \\
-	D & \emph{Kye rdo rje'i sgrub pa'i thabs rnam par dag pa'i gter} by gNyis su med pa'i rdo rje. Trans.\ by Vanaratna and 'Gos gzhon nu dpal. sDe dge bstan 'gyur, Tōh.\ 1244, rgyud, vol.\ 9 (nya), fo.\ 175r1-189r4. 
-\end{longtable}
-
 \noindent\emph{Hevajratantra} (HeTa) 
 \noindent\begin{longtable}{ p{0.07\textwidth} p{0.93\textwidth} }
 	ed. & \fullcite*{snellgrove1959}.\mybibexclude{snellgrove1959} \\
@@ -234,6 +240,12 @@
 	C & Cambridge University Library, MS Add.1697.2. Palm leaf, Bengali script, 34 fos., incomplete. \\
 	P & Manuscript images of unknown provenance. Palm leaf, Newar script, incomplete. \\
 	K & Kaiser Library KL 126 (NGMPP C 14-4), paper, Newari, 52 folios, complete. (775 NS = 1654 CE). 
+\end{longtable}
+
+\noindent\emph{Hevajraviśuddhinidhi} by Advayavajra
+\noindent\begin{longtable}{ p{0.07\textwidth} p{0.93\textwidth} }
+	ms & In \emph{Hevajrasādhanasaṅgraha}, fols.\ 65r-80v. \\
+	D & \emph{Kye rdo rje'i sgrub pa'i thabs rnam par dag pa'i gter} by gNyis su med pa'i rdo rje. Trans.\ by Vanaratna and 'Gos gzhon nu dpal. sDe dge bstan 'gyur, Tōh.\ 1244, rgyud, vol.\ 9 (Nya), fols.\ 175r1-189r4. 
 \end{longtable}
 
 \noindent\emph{Hevajrasādhanasaṅgraha}
@@ -246,9 +258,9 @@
 	& \textcite*[vo.\ 1 pp.\ 99–121]{gerloff2020} 
 \end{longtable}
 
-\noindent\emph{*Hevajranāmasādhana} by Advayavajra
+\noindent\emph{*Hevajrasādhana} by Advayavajra
 \noindent\begin{longtable}{ p{0.07\textwidth} p{0.93\textwidth} }
-	& \emph{Kye rdo rje zhes bya ba'i sgrub pa'i thabs} by gNyis su med pa'i rdo rje. No translator/paṇḍita attribution.  In sDe dge bstan 'gyur, Tōh.\ 1243, rgyud, vol.\ 9 (nya), fo.\ 162r3-175r1. 
+	& \emph{Kye rdo rje zhes bya ba'i sgrub pa'i thabs} by gNyis su med pa'i rdo rje. No translator/paṇḍita attribution.  In sDe dge bstan 'gyur, Tōh.\ 1243, rgyud, vol.\ 9 (Nya), fo.\ 162r3-175r1. 
 \end{longtable}
 
 \noindent\emph{Hevajrākhya} by Advayavajra
@@ -263,3 +275,4 @@
 
 
 % MS citations: material, akṣara, date, folios
+% Tibetan canon: Tibetan name by author (as given in colophon). Trans.\ by X. Canon, number, section, vol. X (letter), fols. 1r1–1r2.
